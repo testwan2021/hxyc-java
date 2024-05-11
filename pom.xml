@@ -14,5 +14,6 @@
     <module>hxyc-threadpool</module>
     <module>hxyc-juc</module>
     <module>high-import-try</module>
+
 </modules>
 </project>
