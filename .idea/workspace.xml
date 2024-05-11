@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99f72b31-2cd6-4195-8420-7421c3caa537" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\repository" />
+        <option name="mavenHome" value="E:\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gGnYeiV0RnE9wPglyHUDysa4Ir" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.27508855" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ThreadinterviewApplication">
+    <configuration name="ThreadandjucMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hxyc-juc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geek.threadandjuc.ThreadandjucMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadinterviewApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hxyc-thread" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apollo.threadinterview.ThreadinterviewApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f72b31-2cd6-4195-8420-7421c3caa537" name="Default Changelist" comment="" />
+      <created>1715332831640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715332831640</updated>
+      <workItem from="1715332832789" duration="1547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1715332852362">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1715332852362" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1715332855114">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1715332855114" />
+  </component>
+</project>
